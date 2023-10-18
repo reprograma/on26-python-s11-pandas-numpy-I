@@ -6,7 +6,7 @@
 
 
 ## Separados por sexo e estado.
-# :earth_americas:  :couple: 
+# :earth_americas:  :couple:     
 
 ### Colunas: 
 ● status  
