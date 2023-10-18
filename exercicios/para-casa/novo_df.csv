@@ -1,0 +1,855 @@
+Cidade,Estado,Região,Estacionamento,Animais,Restaurantes
+Aberdeen,MD,Mid-Atlantic,N,N,N
+Albany,OR,Pacific Northwest,Y,Y,N
+Albion,MI,Central,N,Y,N
+Albuquerque,NM,Southwest,Y,Y,N
+Alderson,WV,Mid-Atlantic,N,N,N
+Alexandria,VA,Mid-Atlantic,Y,Y,N
+Alliance,OH,Central,N,N,N
+Alpena,MI,Central,N,N,N
+Alpine,TX,Southwest,N,N,N
+Alton,IL,Central,Y,N,N
+Altoona,PA,Mid-Atlantic,Y,N,N
+Amherst,MA,Northeast,N,Y,N
+Amsterdam,NY,Northeast,N,N,N
+Anaheim,CA,Southwest,Y,Y,N
+Ann Arbor,MI,Central,Y,N,N
+Anniston,AL,Southern,N,N,N
+Antioch,CA,Pacific,N,N,N
+Appleton,WI,Central,N,N,N
+Arcata,CA,Pacific,N,N,N
+Ardmore,OK,Southwest,N,N,N
+Ardmore,PA,Mid-Atlantic,N,N,N
+Arkadelphia,AR,Central,N,N,N
+Ashland,KY,Mid-Atlantic,N,N,N
+Ashland,OR,Pacific,N,N,N
+Ashland,VA,Mid-Atlantic,N,N,N
+Astoria,OR,Pacific,N,N,N
+Astoria,OR,Pacific Northwest,N,N,N
+Atascadero,CA,Pacific,N,N,N
+Athol,ID,Pacific Northwest,N,N,N
+Atlanta,GA,Southern,Y,N,N
+Atlantic City,NJ,Northeast,N,Y,N
+Auburn,CA,Pacific,N,N,N
+Austin,TX,Southwest,Y,Y,N
+Baker City,OR,Pacific Northwest,N,N,N
+Bakersfield,CA,Pacific,Y,Y,N
+Baltimore,MD,Mid-Atlantic,Y,Y,N
+Bangor,ME,Northeast,N,N,N
+Bangor,MI,Central,N,N,N
+Barstow,CA,Southwest,N,N,N
+Barstow,CA,Southwest,N,N,N
+Bath,ME,Northeast,N,N,N
+Baton Rouge,LA,Southern,N,N,N
+Battle Creek,MI,Central,Y,N,N
+Bay City,MI,Central,N,N,N
+Beaumont,TX,Southwest,N,N,N
+Beaver Dam,WI,Central,N,N,N
+Bellingham,WA,Pacific Northwest,Y,Y,N
+Bellows Falls,VT,Northeast,N,N,N
+Bend,OR,Pacific Northwest,N,N,N
+Bend,OR,Pacific Northwest,N,N,N
+Bend,OR,Pacific Northwest,N,N,N
+Benson,AZ,Southwest,N,N,N
+Berkeley,CA,Pacific,N,N,N
+Berlin,MD,Mid-Atlantic,N,N,N
+Berlin,NH,Northeast,N,N,N
+Big Rapids,MI,Central,N,N,N
+Bingen,WA,Pacific Northwest,N,N,N
+Birmingham,AL,Southern,Y,N,N
+Birmingham,MI,Central,N,N,N
+Boise,ID,Pacific Northwest,N,N,N
+Boston,MA,Northeast,Y,Y,N
+Boyne Falls,MI,Central,N,N,N
+Bradenton,FL,Southern,N,Y,N
+Brattleboro,VT,Northeast,N,Y,N
+Brewster,WA,Pacific,N,N,N
+Bridgeport,CT,Northeast,N,Y,N
+Brookhaven,MS,Southern,N,N,N
+Brookings,OR,Pacific,N,N,N
+Browning,MT,Pacific Northwest,N,N,N
+Bryan,OH,Central,N,N,N
+Buellton,CA,Pacific,N,N,N
+Buffalo,NY,Northeast,Y,N,N
+Burbank,CA,Southwest,N,N,N
+Burke,VA,Mid-Atlantic,N,N,N
+Burlington,IA,Central,N,N,N
+Burlington,NC,Southern,N,N,N
+Burns,OR,Pacific Northwest,N,N,N
+BWI Airport,MD,Mid-Atlantic,Y,N,N
+Cabazon,CA,Southwest,N,N,N
+Cadillac,MI,Central,N,N,N
+Camarillo,CA,Southwest,N,N,N
+Cambridge,MD,Mid-Atlantic,N,Y,N
+Camden,SC,Southern,N,N,N
+Camp Verde,AZ,Southwest,N,N,N
+Cannon Beach,OR,Pacific Northwest,N,N,N
+Carbondale,IL,Central,Y,Y,N
+Carlinville,IL,Central,N,N,N
+Carlsbad,CA,Pacific,N,N,N
+Carmel,CA,Pacific,N,N,N
+Carpinteria,CA,Southwest,N,N,N
+Cary,NC,Southern,Y,N,N
+Castleton,VT,Northeast,N,Y,N
+Cave Junction,OR,Pacific,N,N,N
+Centralia,IL,Central,N,N,N
+Centralia,WA,Pacific Northwest,Y,Y,N
+Champaign,IL,Central,Y,Y,N
+Charleston,WV,Mid-Atlantic,Y,Y,N
+Charlotte,NC,Southern,Y,Y,N
+Charlottesville,VA,Mid-Atlantic,Y,Y,N
+Chatsworth,CA,Southwest,N,N,N
+Chemult,OR,Pacific Northwest,N,N,N
+Chewelah,WA,Pacific Northwest,N,N,N
+Chicago,IL,Central,Y,Y,N
+Chico,CA,Pacific,N,N,N
+Chippewa Falls,WI,Central,N,N,N
+Cincinnati,OH,Central,Y,Y,N
+Claremont,CA,Southwest,N,N,N
+Clearwater,FL,Southern,Y,N,N
+Cleburne,TX,Southwest,N,N,N
+Clemson,SC,Southern,N,N,N
+Cleveland,OH,Central,Y,Y,N
+Clifton Forge,VA,Mid-Atlantic,N,N,N
+Cloverdale,CA,Pacific,N,N,N
+Coatesville,PA,Mid-Atlantic,N,N,N
+Coeur d'Alene,ID,Pacific Northwest,N,N,N
+Colby,WI,Central,N,N,N
+Colfax,CA,Pacific,N,N,N
+Colfax,WA,Pacific Northwest,N,N,N
+Colorado Springs,CO,Central,N,N,N
+Columbia,SC,Southern,Y,N,Y
+Columbus,WI,Central,Y,Y,N
+Colville,WA,Pacific Northwest,N,N,N
+Concord,NH,Northeast,N,N,N
+Connellsville,PA,Mid-Atlantic,N,N,N
+Connersville,IN,Central,N,N,N
+Coos Bay,OR,Pacific Northwest,N,N,N
+Corcoran,CA,Pacific,N,N,N
+Cornwells Heights,PA,Northeast,N,N,N
+Corvallis,OR,Pacific Northwest,N,N,N
+Crater Lake,OR,Pacific Northwest,N,N,N
+Crawfordsville,IN,Central,N,N,N
+Crescent City,CA,Pacific,N,N,N
+Creston,IA,Central,N,N,N
+Croton-on-Hudson,NY,Northeast,N,N,N
+Culpeper,VA,Mid-Atlantic,N,N,N
+Cumberland,MD,Mid-Atlantic,N,Y,N
+Cumberland,MD,Mid-Atlantic,N,Y,N
+Cut Bank,MT,Pacific Northwest,N,N,N
+Dade City,FL,Southern,N,N,N
+Dallas,TX,Southwest,Y,Y,N
+Damariscotta,ME,Northeast,N,N,N
+Danville,IL,Central,N,N,N
+Danville,VA,Southern,N,N,N
+Davenport,IA,Central,N,N,N
+Davis,CA,Pacific,Y,Y,N
+Daytona Beach,FL,Southern,N,N,N
+Dearborn,MI,Central,Y,Y,N
+Dearborn,MI,Central,N,N,N
+Deer Park,WA,Pacific Northwest,N,N,N
+Deerfield Beach,FL,Southern,N,N,N
+Deforest,WI,Central,N,N,N
+Del Rio,TX,Southwest,N,N,N
+Deland,FL,Southern,N,N,N
+Delray Beach,FL,Southern,N,N,N
+Deming,NM,Southwest,N,N,N
+Denair,CA,Pacific,N,N,N
+Denmark,SC,Southern,N,N,N
+Denver,CO,Central,N,N,N
+Denver,CO,Central,Y,Y,N
+Depew,NY,Northeast,Y,Y,N
+Detroit,MI,Central,Y,Y,N
+Detroit Lakes,MN,Central,N,N,N
+Devils Lake,ND,Central,N,N,N
+Dillon,SC,Southern,N,N,N
+Dodge City,KS,Southwest,N,N,N
+Dover,DE,Mid-Atlantic,N,Y,N
+Dover,NH,Northeast,N,N,N
+Dowagiac,MI,Central,N,Y,N
+Downingtown,PA,Mid-Atlantic,N,N,N
+Du Quoin,IL,Central,N,N,N
+Duluth,MN,Central,N,N,N
+Duluth,MN,Central,N,N,N
+Dunkirk,NY,Northeast,N,N,N
+Dunsmuir,CA,Pacific,N,N,N
+Durand,MI,Central,N,Y,N
+Durham,NC,Southern,Y,N,N
+Durham,NH,Northeast,N,N,N
+Dwight,IL,Central,N,N,N
+Dyer,IN,Central,N,N,N
+Earlimart,CA,Pacific,N,N,N
+East Lansing,MI,Central,Y,N,N
+Easton,MD,Mid-Atlantic,N,Y,N
+Eau Claire,WI,Central,N,N,N
+Edmonds,WA,Pacific Northwest,Y,Y,N
+Effingham,IL,Central,N,N,N
+El Paso,TX,Southwest,Y,Y,N
+El Portal,CA,Pacific,N,N,N
+El Segundo,CA,Southwest,N,N,N
+Elizabethtown,PA,Mid-Atlantic,N,N,N
+Elk Grove,CA,Pacific,N,N,N
+Elkhart,IN,Central,N,N,N
+Elko,NV,Pacific,N,N,N
+Elsie,OR,Pacific Northwest,N,N,N
+Elyria,OH,Central,N,N,N
+Emeryville,CA,Pacific,Y,Y,N
+Ephrata,WA,Pacific Northwest,N,N,N
+Ephrata,WA,Pacific Northwest,N,N,N
+Erie,PA,Northeast,N,N,N
+Escanaba,MI,Central,N,N,N
+Essex,MT,Pacific Northwest,N,N,N
+Eugene,OR,Pacific Northwest,Y,Y,N
+Eugene,OR,Pacific Northwest,N,N,N
+Eureka,CA,Pacific,N,N,N
+Everett,WA,Pacific Northwest,Y,Y,N
+Exton,PA,Mid-Atlantic,N,N,N
+Fargo,ND,Central,Y,Y,N
+Fayetteville,NC,Southern,Y,Y,N
+Fillmore,CA,Southwest,N,N,N
+Flagstaff,AZ,Southwest,N,N,N
+Flagstaff,AZ,Southwest,Y,Y,N
+Flint,MI,Central,Y,N,N
+Florence,OR,Pacific Northwest,N,N,N
+Florence,SC,Southern,Y,N,N
+Fond du Lac,WI,Central,N,N,N
+Fort Edward,NY,Northeast,N,N,N
+Fort Hood,TX,Southwest,N,N,N
+Fort Lauderdale,FL,Southern,N,N,N
+Fort Madison,IA,Central,Y,N,N
+Fort Morgan,CO,Central,N,N,N
+Fort Myers,FL,Southern,N,N,N
+Fort Worth,TX,Southwest,Y,Y,N
+Fortuna,CA,Pacific,N,N,N
+Framingham,MA,Northeast,N,Y,N
+Fraser,CO,Central,N,N,N
+Frederick,MD,Mid-Atlantic,N,Y,N
+Frederick,MD,Mid-Atlantic,N,Y,N
+Fredericksburg,VA,Mid-Atlantic,N,N,N
+Fredonia,NY,Northeast,N,N,N
+Fremont,CA,Pacific,N,N,N
+Fremont,CA,Pacific,N,N,N
+Fresno,CA,Pacific,Y,Y,N
+Frisco,CO,Central,N,N,N
+Frostburg,MD,Mid-Atlantic,N,Y,N
+Fullerton,CA,Southwest,Y,Y,N
+Fulton,KY,Central,N,N,N
+Gainesville,FL,Southern,N,N,N
+Gainesville,GA,Southern,N,N,N
+Gainesville,TX,Southwest,N,N,N
+Galesburg,IL,Central,Y,N,N
+Gallup,NM,Southwest,N,N,N
+Galveston,TX,Southwest,N,N,N
+Galveston,TX,Southwest,N,N,N
+Garberville,CA,Pacific,N,N,N
+Garden City,KS,Southwest,Y,N,N
+Gastonia,NC,Southern,N,N,N
+Gearhart,OR,Pacific Northwest,N,N,N
+Germantown,MD,MARC,N,Y,N
+Gilman,IL,Central,N,N,N
+Gilroy,CA,Pacific,N,N,N
+Glasgow,MT,Pacific Northwest,N,N,N
+Glendale,CA,Southwest,N,N,N
+Glenview,IL,Central,Y,N,N
+Glenwood Springs,CO,Central,Y,Y,N
+Gold Hill,OR,Pacific,N,N,N
+Goleta,CA,Southwest,N,N,N
+Goshen,CA,Pacific,N,N,N
+Granby,CO,Central,N,Y,N
+Grand Canyon National Park,AZ,Southwest,N,N,N
+Grand Canyon National Park,AZ,Southwest,N,N,N
+Grand Forks,ND,Central,Y,Y,N
+Grand Junction,CO,Pacific,Y,Y,N
+Grand Rapids,MI,Central,N,N,N
+Grangeville,ID,Pacific Northwest,N,N,N
+Grants Pass,OR,Pacific,N,N,N
+Grantsville,MD,Mid-Atlantic,N,N,N
+Grasonville,MD,Mid-Atlantic,N,Y,N
+Green Bay,WI,Central,N,N,N
+Green River,UT,Pacific,N,N,N
+Greensboro,NC,Southern,Y,N,N
+Greensburg,PA,Mid-Atlantic,N,Y,N
+Greenville,SC,Southern,Y,Y,N
+Greenwood,MS,Central,N,N,N
+Grover Beach,CA,Southwest,N,N,N
+Guadalupe,CA,Southwest,N,N,N
+Guthrie,OK,Central,N,N,N
+Hagerstown,MD,Mid-Atlantic,N,N,N
+Hamlet,NC,Southern,N,N,N
+Hammond,IN,Central,N,N,N
+Hammond,LA,Southern,Y,N,N
+Hancock,MD,Mid-Atlantic,N,Y,N
+Hancock,MI,Central,N,N,N
+Hanford,CA,Pacific,Y,N,N
+Harpers Ferry,WV,Mid-Atlantic,N,N,N
+Harrisburg,PA,Mid-Atlantic,Y,Y,N
+Hastings,NE,Central,Y,Y,N
+Hattiesburg,MS,Southern,N,N,N
+Haverhill,MA,Northeast,N,Y,N
+Havre,MT,Pacific Northwest,Y,Y,N
+Hayward,CA,Pacific,N,N,N
+Hazlehurst,MS,Southern,N,N,N
+Healdsburg,CA,Pacific,N,N,N
+Helper,UT,Pacific,N,N,N
+Hemet,CA,Southwest,N,N,N
+Hemet,CA,Southwest,N,N,N
+Hermann,MO,Central,N,N,N
+High Point,NC,Southern,N,N,N
+Hinckley,MN,Central,N,N,N
+Hinton,WV,Mid-Atlantic,N,N,N
+Holdrege,NE,Central,N,N,N
+Holland,MI,Central,N,N,N
+Hollywood,FL,Southern,N,N,N
+Homewood,IL,Central,Y,N,N
+Hood River,OR,Pacific Northwest,N,N,N
+Houghton,MI,Central,N,N,N
+Houston,TX,Southwest,Y,N,N
+Howard City,MI,Central,N,N,N
+Hudson,NY,Northeast,Y,N,N
+Hudson,WI,Central,N,N,N
+Huntingdon,PA,Mid-Atlantic,N,Y,N
+Huntington,WV,Mid-Atlantic,Y,Y,N
+Hutchinson,KS,Central,N,N,N
+Independence,MO,Central,N,N,N
+Indianapolis,IN,Central,Y,Y,N
+Indio,CA,Southwest,N,N,N
+Irvine,CA,Southwest,Y,N,N
+Iselin,NJ,Northeast,Y,Y,N
+Isleton,CA,Pacific,N,N,N
+Jackson,MI,Central,Y,N,N
+Jackson,MS,Southern,Y,Y,N
+Jacksonville,FL,Southern,N,N,N
+Jamestown,NY,Northeast,N,N,N
+Janesville,WI,Central,N,N,N
+Jefferson City,MO,Central,N,N,N
+Jesup,GA,Southern,N,N,N
+Johnstown,PA,Mid-Atlantic,Y,Y,N
+Joliet,IL,Central,Y,N,N
+June Lake,CA,Pacific,N,N,N
+Kalamazoo,MI,Central,Y,N,N
+Kalkaska,MI,Central,N,N,N
+Kankakee,IL,Central,N,N,N
+Kannapolis,NC,Southern,N,N,N
+Kansas City,MO,Central,Y,Y,N
+Kelso,WA,Pacific Northwest,N,N,N
+Kettle Falls,WA,Pacific Northwest,N,N,N
+Kettleman City,CA,Pacific,N,N,N
+Kewanee,IL,Central,N,N,N
+Killeen,TX,Southwest,N,N,N
+King City,CA,Pacific,N,N,N
+Kingman,AZ,Southwest,N,N,N
+Kingsley,MI,Central,N,N,N
+Kingstree,SC,Southern,N,N,N
+Kirkwood,MO,Central,N,N,N
+Kissimmee,FL,Southern,N,N,N
+Klamath Falls,OR,Pacific Northwest,Y,Y,N
+Klamath Falls,OR,Pacific Northwest,N,N,N
+L'Anse,MI,Central,N,N,N
+La Crescenta,CA,Southwest,N,N,N
+La Crosse,WI,Central,Y,Y,N
+La Grande,OR,Pacific Northwest,N,N,N
+La Grange,IL,Central,N,N,N
+La Junta,CO,Southwest,Y,Y,N
+La Marque,TX,Southwest,N,N,N
+La Pine,OR,Pacific Northwest,N,N,N
+La Plata,MO,Central,N,Y,N
+La Quinta,CA,Southwest,N,N,N
+Lacey,WA,Pacific Northwest,N,N,N
+Lafayette,IN,Central,N,N,N
+Lafayette,LA,Southern,N,N,N
+Laguna Niguel,CA,Southwest,N,N,N
+Lake Charles,LA,Southern,N,N,N
+Lake Placid,NY,Northeast,N,N,N
+Lakeland,FL,Southern,N,N,N
+Lakeland,FL,Southern,N,N,N
+Lamar,CO,Southwest,N,N,N
+Lamy,NM,Southwest,Y,Y,N
+Lancaster,CA,Southwest,N,N,N
+Lancaster,PA,Mid-Atlantic,Y,N,N
+Lapeer,MI,Central,N,N,N
+Las Vegas,NM,Southwest,N,Y,N
+Las Vegas,NV,Southwest,N,N,N
+Las Vegas,NV,Southwest,N,Y,N
+Latrobe,PA,Mid-Atlantic,N,N,N
+Laughlin,NV,Southwest,N,N,N
+Laurel,MS,Southern,N,N,N
+Lawrence,KS,Central,N,N,N
+Laytonville,CA,Pacific,N,N,N
+Leavenworth,WA,Pacific Northwest,N,N,N
+Leavenworth,WA,Pacific Northwest,N,N,N
+Ledyard,CT,Northeast,N,Y,N
+Lee Vining,CA,Pacific,N,N,N
+Lee's Summit,MO,Central,N,Y,N
+Leggett,CA,Pacific,N,N,N
+Lemoore,CA,Pacific,N,N,N
+Lemoore,CA,Pacific,N,N,N
+Lewiston,ID,Pacific Northwest,N,N,N
+Lewistown,PA,Mid-Atlantic,N,N,N
+Lexington,NC,Southern,N,N,N
+Libby,MT,Pacific Northwest,N,N,N
+Lincoln,IL,Central,N,N,N
+Lincoln,NE,Central,Y,N,N
+Little Rock,AR,Central,Y,Y,N
+Littlerock,CA,Southwest,N,N,N
+Littleton,NH,Northeast,N,N,N
+Livermore,CA,Pacific,N,N,N
+Livermore,CA,Pacific,N,N,N
+Lodi,CA,Pacific,N,N,N
+Lompoc,CA,Southwest,N,N,N
+Long Beach,CA,Southwest,N,N,N
+Long Beach,CA,Southwest,N,N,N
+Longview,TX,Southwest,Y,Y,N
+Loon Lake,WA,Pacific Northwest,N,N,N
+Lordsburg,NM,Southwest,N,N,N
+Lorton,VA,Southern,Y,N,N
+Los Angeles,CA,Southwest,Y,N,N
+Los Angeles,CA,Southwest,N,N,N
+Louisville,KY,Central,N,N,N
+Lynchburg,VA,Southern,Y,Y,N
+Mackinaw City,MI,Central,N,N,N
+Macomb,IL,Central,N,N,N
+Madera,CA,Pacific,N,N,N
+Madison,WI,Central,N,N,N
+Madison,WI,Central,N,N,N
+Malta,MT,Pacific Northwest,N,Y,N
+Malvern,AR,Central,N,N,N
+Mammoth Lakes,CA,Pacific,N,N,N
+Manassas,VA,Mid-Atlantic,N,N,N
+Mancelona,MI,Central,N,N,N
+Manchester,NH,Northeast,N,N,N
+Manitowoc,WI,Central,N,N,N
+Manning,OR,Pacific Northwest,N,N,N
+Manteca,CA,Pacific,N,N,N
+Manton,MI,Central,N,N,N
+Marceline,MO,Central,N,Y,N
+Maricopa,AZ,Southwest,Y,Y,N
+Marinette,WI,Central,N,N,N
+Mariposa,CA,Pacific,N,N,N
+Mariposa,CA,Pacific,N,N,N
+Marquette,MI,Central,N,N,N
+Marshall,TX,Southwest,Y,N,N
+Martinez,CA,Pacific,Y,Y,N
+Martinsburg,WV,Mid-Atlantic,N,N,N
+Marysville,CA,Pacific,N,N,N
+Mattoon,IL,Central,N,N,N
+Maysville,KY,Central,N,N,N
+McCall,ID,Pacific Northwest,N,N,N
+McComb,MS,Southern,N,N,N
+McCook,NE,Central,N,N,N
+McGregor,TX,Southwest,N,N,N
+McKinleyville,CA,Pacific,N,N,N
+Medford,OR,Pacific,N,N,N
+Memphis,TN,Central,Y,Y,N
+Mendota,IL,Central,N,N,N
+Menomonie,WI,Central,N,N,N
+Merced,CA,Pacific,Y,Y,N
+Meridian,MS,Southern,Y,Y,N
+Miami,FL,Southern,N,N,N
+Michigan City,IN,Central,N,N,N
+Middletown,PA,Mid-Atlantic,N,N,N
+Midpines,CA,Pacific,N,N,N
+Milwaukee,WI,Central,N,N,N
+Milwaukee,WI,Central,Y,Y,N
+Mineola,TX,Southwest,N,N,N
+Minot,ND,Central,Y,N,N
+Modesto,CA,Pacific,Y,Y,N
+Mojave,CA,Pacific,N,N,N
+Moline,IL,Central,N,N,N
+Monroe,WA,Pacific Northwest,N,N,N
+Monroe,WA,Pacific Northwest,N,N,N
+Monterey,CA,Pacific,N,N,N
+Monterey,CA,Pacific,N,N,N
+Monterey,CA,Pacific,N,N,N
+Monterey,CA,Pacific,N,N,N
+Monterey,CA,Pacific,N,N,N
+Montgomery,WV,Mid-Atlantic,N,N,N
+Moorpark,CA,Southwest,N,N,N
+Morgan Hill,CA,Pacific,N,N,N
+Moscow,ID,Pacific Northwest,N,N,N
+Moses Lake,WA,Pacific Northwest,N,N,N
+Mosinee,WI,Central,N,N,N
+Mount Joy,PA,Mid-Atlantic,N,N,N
+Mount Vernon,WA,Pacific Northwest,N,N,N
+Mt. Pleasant,IA,Central,Y,N,N
+Nacogdoches,TX,Southwest,N,N,N
+Nampa,ID,Pacific Northwest,N,N,N
+Napa,CA,Pacific,N,N,N
+Napa,CA,Pacific,N,N,N
+Naperville,IL,Central,Y,N,N
+Necanicum Junction,OR,Pacific Northwest,N,N,N
+Needles,CA,Southwest,N,N,N
+New Buffalo,MI,Central,N,N,N
+New Carrollton,MD,Mid-Atlantic,Y,Y,N
+New Hampton,NH,Northeast,N,N,N
+New Haven,CT,Northeast,Y,Y,N
+New Iberia,LA,Southern,N,N,N
+New Orleans,LA,Southern,Y,N,N
+New Rochelle,NY,Northeast,N,N,N
+New York,NY,Northeast,Y,Y,N
+Newark,DE,Mid-Atlantic,N,Y,N
+Newark,NJ,Northeast,Y,Y,N
+Newark,NJ,Northeast,Y,Y,N
+Newbern,TN,Central,N,N,N
+Newburyport,MA,Northeast,N,Y,N
+Newport,OR,Pacific Northwest,N,N,N
+Newport News,VA,Mid-Atlantic,Y,N,N
+Newton,KS,Central,Y,N,N
+Niagara Falls,NY,Northeast,Y,N,N
+Niles,MI,Central,Y,N,N
+Norfolk,VA,Mid-Atlantic,N,N,N
+Normal,IL,Central,Y,Y,N
+Norman,OK,Central,N,N,N
+North Carolina State Fair,NC,Southern,N,N,N
+North Charleston,SC,Southern,Y,Y,N
+Oakland,CA,Pacific,N,N,N
+Oakland,CA,Pacific,Y,Y,N
+Ocala,FL,Southern,N,N,N
+Ocean City,MD,Mid-Atlantic,N,N,N
+Oceanside,CA,Southwest,Y,N,N
+Oconto,WI,Central,N,N,N
+Odenton,MD,MARC,,,
+Ogden,UT,Pacific,N,N,N
+Okanogan,WA,Pacific,N,N,N
+Okeechobee,FL,Southern,N,N,N
+Oklahoma City,OK,Southwest,N,N,N
+Old Saybrook,CT,Northeast,Y,Y,N
+Omaha,NE,Central,Y,Y,N
+Omak,WA,Pacific,N,N,N
+Ontario,CA,Southwest,N,N,N
+Ontario,OR,Pacific Northwest,N,N,N
+Orange,CA,Southwest,N,N,N
+Oregon City,OR,Pacific Northwest,N,N,N
+Orlando,FL,Southern,Y,N,N
+Oroville,CA,Pacific,N,N,N
+Osceola,IA,Central,N,N,N
+Oshkosh,WI,Central,N,N,N
+Oshkosh,WI,Central,N,N,N
+Ottumwa,IA,Central,Y,N,N
+Owosso,MI,Central,N,N,N
+Oxnard,CA,Southwest,Y,N,N
+Palatka,FL,Southern,N,N,N
+Palm Desert,CA,Southwest,N,N,N
+Palm Springs,CA,Southwest,N,N,N
+Palm Springs,CA,Southwest,N,N,N
+Palm Springs,CA,Southwest,N,N,N
+Palmdale,CA,Southwest,N,N,N
+Paoli,PA,Mid-Atlantic,Y,Y,N
+Parkesburg,PA,Mid-Atlantic,N,N,N
+Pasadena,CA,Southwest,N,N,N
+Pasco,WA,Pacific Northwest,Y,Y,N
+Paso Robles,CA,Southwest,N,N,N
+Pateros,WA,Pacific,N,N,N
+Pauls Valley,OK,Southwest,N,N,N
+Pellston,MI,Central,N,N,N
+Pendleton,OR,Pacific Northwest,N,N,N
+Peoria,IL,Central,N,N,N
+Perris,CA,Southwest,N,N,N
+Perryville,MD,MARC,,,
+Petaluma,CA,Pacific,N,N,N
+Petersburg,VA,Southern,Y,Y,N
+Petosky,MI,Central,N,N,N
+Philadelphia,PA,Mid-Atlantic,Y,Y,N
+Philadelphia,PA,Mid-Atlantic,N,Y,N
+Phoenix,AZ,Southwest,N,N,N
+Phoenix,AZ,Southwest,N,N,N
+Phoenix,AZ,Southwest,N,N,N
+Picayune,MS,Southern,N,N,N
+Pittsburgh,PA,Mid-Atlantic,Y,Y,N
+Pittsfield,MA,Northeast,N,Y,N
+Placerville,CA,Pacific,N,N,N
+Plano,IL,Central,N,N,N
+Plattsburgh,NY,Northeast,N,N,N
+Pleasanton,CA,Pacific,N,N,N
+Pleasanton,CA,Pacific,N,N,N
+Plummer,ID,Pacific Northwest,N,N,N
+Plymouth,NH,Northeast,N,N,N
+Point of Rocks,MD,MARC,,,
+Pomona,CA,Southwest,N,N,N
+Pontiac,IL,Central,N,N,N
+Pontiac,MI,Central,N,N,N
+Poplar Bluff,MO,Central,N,N,N
+Port Charlotte,FL,Southern,N,N,N
+Port Henry,NY,Northeast,N,N,N
+Port Huron,MI,Central,Y,N,N
+Port Kent,NY,Northeast,N,N,N
+Portage,WI,Central,N,N,N
+Portland,ME,Northeast,Y,N,N
+Portland,OR,Pacific,N,N,N
+Portland,OR,Pacific Northwest,Y,Y,N
+Portsmouth,NH,Northeast,N,N,N
+Post Falls,ID,Pacific Northwest,N,N,N
+Potlatch,ID,Pacific Northwest,N,N,N
+Poughkeepsie,NY,Northeast,N,N,N
+Primm,NV,Southwest,N,N,N
+Prince,WV,Mid-Atlantic,Y,Y,N
+Princeton,IL,Central,N,N,N
+Princeton Junction,NJ,Northeast,Y,Y,N
+Provo,UT,Pacific,N,N,N
+Prunedale,CA,Pacific,N,N,N
+Pueblo,CO,Central,N,N,N
+Pullman,WA,Pacific Northwest,N,N,N
+Purcell,OK,Central,N,N,N
+Quantico,VA,Mid-Atlantic,N,N,N
+Quincy,IL,Central,N,N,N
+Quincy,WA,Pacific Northwest,N,N,N
+Raleigh,NC,Southern,Y,N,N
+Rantoul,IL,Central,N,N,N
+Raton,NM,Southwest,Y,N,N
+Red Bluff,CA,Pacific,N,N,N
+Red Wing,MN,Central,N,N,N
+Redding,CA,Pacific,N,N,N
+Redding,CA,Pacific,N,N,N
+Redmond,OR,Pacific Northwest,N,N,N
+Reed City,MI,Central,N,N,N
+Reedsport,OR,Pacific Northwest,N,N,N
+Reno,NV,Pacific,Y,Y,N
+Rensselaer,IN,Central,N,N,N
+Rensselaer,NY,Northeast,Y,Y,N
+Rhinecliff,NY,Northeast,Y,N,N
+Richmond,CA,Pacific,N,N,N
+Richmond,VA,Mid-Atlantic,N,N,N
+Richmond,VA,Mid-Atlantic,Y,Y,N
+Rio Vista,CA,Pacific,N,N,N
+Rio Vista Junction,CA,Pacific,N,N,N
+Ritzville,WA,Pacific Northwest,N,N,N
+Riverside,CA,Southwest,N,N,N
+Riverside,CA,Southwest,N,N,N
+Rochester,NY,Northeast,Y,Y,N
+Rock Island,IL,Central,N,N,N
+Rockford,IL,Central,N,N,N
+Rockford,MI,Central,N,N,N
+Rockland,ME,Northeast,N,N,N
+Rocklin,CA,Pacific,N,N,N
+Rockville,MD,Mid-Atlantic,N,N,N
+Rocky Mount,NC,Southern,Y,N,N
+Rohnert Park,CA,Pacific,N,N,N
+Rome,NY,Northeast,N,N,N
+Roseville,CA,Pacific,N,N,N
+Rothschild,WI,Central,N,N,N
+Rouses Point,NY,Northeast,N,N,N
+Royal Oak,MI,Central,N,N,N
+Rugby,ND,Central,Y,N,N
+Saco,ME,Northeast,N,Y,N
+Sacramento,CA,Pacific,Y,N,N
+Sacramento,CA,Pacific,N,N,N
+Saginaw,MI,Central,N,N,N
+Sagle,ID,Pacific Northwest,N,N,N
+Salem,OR,Pacific Northwest,N,N,N
+Salem,OR,Pacific Northwest,Y,Y,N
+Salinas,CA,Pacific,Y,N,N
+Salisbury,MD,Mid-Atlantic,N,N,N
+Salisbury,MD,Mid-Atlantic,N,N,N
+Salisbury,NC,Southern,N,N,N
+Salt Lake City,UT,Pacific,N,N,N
+Salt Lake City,UT,Pacific,Y,Y,N
+San Antonio,TX,Southwest,Y,Y,N
+San Bernardino,CA,Southwest,N,N,N
+San Clemente,CA,Southwest,N,N,N
+San Diego,CA,Southwest,N,N,N
+San Diego,CA,Southwest,Y,N,N
+San Francisco,CA,Pacific,Y,N,N
+San Francisco,CA,Pacific,N,N,N
+San Francisco,CA,Pacific,N,N,N
+San Francisco,CA,Pacific,N,N,N
+San Francisco,CA,Pacific,N,N,N
+San Francisco,CA,Pacific,N,N,N
+San Francisco,CA,Pacific,N,N,N
+San Francisco,CA,Pacific,N,N,N
+San Jose,CA,Pacific,Y,N,N
+San Juan Capistrano,CA,Southwest,Y,N,N
+San Luis Obispo,CA,Southwest,Y,N,N
+San Luis Obispo,CA,Southwest,N,N,N
+San Marcos,TX,Southwest,N,N,N
+San Pedro,CA,Southwest,N,N,N
+San Pedro,CA,Southwest,N,N,N
+Sanderson,TX,Southwest,N,N,N
+Sandpoint,ID,Pacific Northwest,N,N,N
+Sandpoint,ID,Pacific Northwest,N,N,N
+Sandusky,OH,Central,N,N,N
+Sanford,FL,Southern,Y,N,N
+Santa Ana,CA,Southwest,Y,N,N
+Santa Barbara,CA,Southwest,Y,N,N
+Santa Clara,CA,Pacific,N,N,N
+Santa Clara,CA,Pacific,N,N,N
+Santa Clarita,CA,Southwest,N,N,N
+Santa Cruz,CA,Pacific,N,N,N
+Santa Fe,NM,Southwest,N,N,N
+Santa Maria,CA,Southwest,N,N,N
+Santa Paula,CA,Southwest,N,N,N
+Santa Rosa,CA,Pacific,N,N,N
+Sarasota,FL,Southern,N,N,N
+Saratoga Springs,NY,Northeast,Y,N,N
+Saratoga Springs,NY,Northeast,N,N,N
+Sault Sainte Marie,MI,Central,N,N,N
+Savannah,GA,Southern,Y,Y,N
+Schenectady,NY,Northeast,Y,Y,N
+Schriever,LA,Central,N,N,N
+Scotia,CA,Pacific,N,N,N
+Scotts Valley,CA,Pacific,N,N,N
+Searsport,ME,Northeast,N,Y,N
+Seaside,CA,Pacific,N,N,N
+Seaside,OR,Pacific Northwest,N,N,N
+Seattle,WA,Pacific Northwest,Y,Y,N
+Seattle,WA,Pacific,N,N,N
+Sebring,FL,Southern,Y,N,N
+Sedalia,MO,Central,N,N,N
+Sedona,AZ,Southwest,N,N,N
+Selma,NC,Southern,N,N,N
+Shawano,WI,Central,N,N,N
+Sheboygan,WI,Central,N,N,N
+Shelby,MT,Pacific Northwest,Y,Y,N
+Shreveport,LA,Southwest,N,N,N
+Simi Valley,CA,Southwest,N,N,N
+Skykomish,WA,Pacific Northwest,N,N,N
+Skykomish,WA,Pacific Northwest,N,N,N
+Slidell,LA,Southern,N,N,N
+Smith River,CA,Pacific,N,N,N
+Solana Beach,CA,Southwest,Y,N,N
+Solvang,CA,Southwest,N,N,N
+Somerdale,NJ,Northeast,N,Y,N
+South Beloit,IL,Central,N,N,N
+South Bend,IN,Central,Y,Y,N
+South Lake Tahoe,CA,Pacific,N,N,N
+South Shore,KY,Central,N,N,N
+Southern Pines,NC,Southern,N,N,N
+Sparks,NV,Pacific,N,Y,N
+Spartanburg,SC,Southern,N,N,N
+Spokane,WA,Pacific Northwest,Y,Y,N
+Springfield,IL,Central,Y,Y,N
+St. Cloud,MN,Central,N,N,N
+St. George,UT,Southwest,N,N,N
+St. Ignace,MI,Central,N,N,N
+St. Joseph,MI,Central,N,N,N
+St. Louis,MO,Central,Y,Y,N
+St. Paul,MN,Central,Y,Y,N
+Stanley,ND,Pacific Northwest,N,N,N
+Stanley,WI,Central,N,N,N
+Stanwood,WA,Pacific Northwest,N,N,N
+Staples,MN,Central,N,N,N
+Stateline,CA,Pacific,N,N,N
+Stateline,NV,Pacific,N,Y,N
+Staunton,VA,Mid-Atlantic,N,Y,N
+Stevens Pass,WA,Pacific Northwest,N,N,N
+Stevens Point,WI,Central,N,N,N
+Stevens Point,WI,Central,N,N,N
+Stockton,CA,Pacific,Y,N,N
+Stockton,CA,Pacific,N,N,N
+Sturtevant,WI,Central,N,N,N
+Suisun City,CA,Pacific,N,N,N
+Summit,IL,Central,N,N,N
+Sun City-Menifee,CA,Southwest,N,N,N
+Sunriver,OR,Pacific Northwest,N,N,N
+Surf,CA,Southwest,N,N,N
+Syracuse,NY,Northeast,N,N,N
+Syracuse,NY,Northeast,Y,Y,N
+Tacoma,WA,Pacific Northwest,Y,Y,N
+Tampa,FL,Southern,Y,N,N
+Tawas City,MI,Central,N,N,N
+Taylor,TX,Southwest,N,N,N
+Tehachapi,CA,Southwest,N,N,N
+Temple,TX,Southwest,Y,N,N
+Texarkana,AR,Southwest,Y,Y,N
+The Dalles,OR,Pacific Northwest,N,N,N
+The Villages,FL,Southern,N,N,N
+Thurmond,WV,Mid-Atlantic,N,N,N
+Ticonderoga,NY,Northeast,N,N,N
+Toccoa,GA,Southern,N,N,N
+Toledo,OH,Central,Y,Y,N
+Toledo,OR,Pacific Northwest,N,N,N
+Tomah,WI,Central,N,N,N
+Topeka,KS,Central,Y,N,N
+Torrance,CA,Southwest,N,N,N
+Tracy,CA,Pacific,N,N,N
+Tracy,CA,Pacific,N,N,N
+Traverse City,MI,Central,N,N,N
+Trenton,NJ,Northeast,Y,Y,N
+Trinidad,CO,Southwest,N,N,N
+Truckee,CA,Pacific,N,N,N
+Tucson,AZ,Southwest,Y,Y,N
+Tukwila,WA,Pacific Northwest,N,N,N
+Tusayan,AZ,Southwest,N,N,N
+Tuscaloosa,AL,Southern,Y,N,N
+Twin Falls,ID,Pacific Northwest,N,N,N
+Tyrone,PA,Mid-Atlantic,N,N,N
+Ukiah,CA,Pacific,N,N,N
+Utica,NY,Northeast,Y,Y,N
+Vail,CO,Central,N,N,N
+Vale,OR,Pacific Northwest,N,N,N
+Vallejo,CA,Pacific,N,N,N
+Vallejo,CA,Pacific,N,N,N
+Van Nuys,CA,Southwest,Y,N,N
+Vancouver,WA,Pacific Northwest,Y,Y,N
+Ventura,CA,Southwest,N,N,N
+Victorville,CA,Southwest,N,N,N
+Victorville,CA,Southwest,N,N,N
+Virginia Beach,VA,Mid-Atlantic,N,Y,N
+Visalia,CA,Pacific,N,N,N
+Waldo,FL,Southern,N,N,N
+Waldoboro,ME,Northeast,N,Y,N
+Walla Walla,WA,Pacific Northwest,N,N,N
+Wallingford,CT,Northeast,N,Y,N
+Walloon Lake,MI,Central,N,N,N
+Walnut Ridge,AR,Central,N,N,N
+Warrensburg,MO,Central,N,N,N
+Warrenton,OR,Pacific Northwest,N,N,N
+Wasco,CA,Pacific,N,N,N
+Washington,DC,Mid-Atlantic,Y,Y,N
+Washington,MO,Central,N,N,N
+Waterbury,VT,Northeast,N,Y,N
+Waterloo,IN,Central,N,N,N
+Waupaca,WI,Central,N,N,N
+Waupun,WI,Central,N,N,N
+Wausau,WI,Central,N,N,N
+Wells,ME,Northeast,N,Y,N
+Wenatchee,WA,Pacific Northwest,N,N,N
+West Glacier,MT,Pacific Northwest,N,N,N
+West Kingston,RI,Northeast,Y,Y,N
+West Palm Beach,FL,Southern,N,N,N
+West Palm Beach,FL,Southern,Y,N,N
+Westchester,CA,Southwest,N,N,N
+Westerly,RI,Northeast,Y,Y,N
+Westfield,WI,Central,N,N,N
+Westport,NY,Northeast,N,N,N
+Westwood,MA,Northeast,Y,Y,N
+White City,OR,Pacific,N,N,N
+White River Junction,VT,Northeast,N,N,N
+White Sulphur Springs,WV,Mid-Atlantic,N,N,N
+Whitefish,MT,Pacific Northwest,Y,Y,N
+Whitehall,NY,Northeast,N,N,N
+Wildwood,FL,Southern,N,N,N
+Williams,AZ,Southwest,N,N,N
+Williams Junction,AZ,Southwest,N,N,N
+Williamsburg,VA,Mid-Atlantic,Y,Y,N
+Williston,ND,Pacific Northwest,Y,Y,N
+Willits,CA,Pacific,N,N,N
+Wilmington,DE,Mid-Atlantic,Y,Y,N
+Wilson,NC,Southern,Y,Y,N
+Windsor,CT,Northeast,N,Y,N
+Windsor,VT,Northeast,N,N,N
+Windsor Locks,CT,Northeast,N,Y,N
+Winnemucca,NV,Pacific,N,Y,N
+Winona,MN,Central,Y,Y,N
+Winslow,AZ,Southwest,N,N,N
+Winston-Salem,NC,Southern,N,N,N
+Winston-Salem,NC,Southern,N,N,N
+Winter Haven,FL,Southern,Y,N,N
+Winter Park,FL,Southern,Y,N,N
+Wiscasset,ME,Northeast,N,Y,N
+Wisconsin Dells,WI,Central,N,N,N
+Wishram,WA,Pacific Northwest,N,N,N
+Wittenberg,WI,Central,N,N,N
+Woburn,MA,Northeast,N,Y,N
+Wolf Point,MT,Pacific Northwest,Y,N,N
+Woodbridge,VA,Mid-Atlantic,N,Y,N
+Worcester,MA,Northeast,Y,Y,N
+Yazoo City,MS,Central,N,N,N
+Yemassee,SC,Southern,N,N,N
+Yonkers,NY,Northeast,N,N,N
+Yosemite National Park,CA,Pacific,N,N,N
+Yosemite National Park,CA,Pacific,N,N,N
+Yosemite National Park,CA,Pacific,N,N,N
+Yosemite National Park,CA,Pacific,N,N,N
+Yosemite National Park,CA,Pacific,N,N,N
+Yosemite National Park,CA,Pacific,N,N,N
+Yosemite National Park,CA,Pacific,N,N,N
+Yuma,AZ,Southwest,N,N,N
