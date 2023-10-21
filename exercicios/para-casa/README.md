@@ -7,7 +7,7 @@ Nesta semana trabalhamos com os dados do navio "Titanic", que contém informaç�
 Formato do notebook
 
     ●	Introdução
-        ○	Breve descrição da base de dados
+        ○	Breve descrição da base de dados ✅
     ●	Processamento
         ○	Função de processamento
         ○	Leitura e tratamento do DF com o uso da função
