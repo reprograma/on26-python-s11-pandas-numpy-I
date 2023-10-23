@@ -1,0 +1,178 @@
+Country,Airline passengers carried,Year
+United States,"666,153,000",2021
+China,"440,301,216",2021
+Russia,"96,851,770",2021
+India,"83,964,797",2021
+Ireland,"74,065,210",2021
+Turkey,"69,065,870",2021
+Brazil,"61,896,520",2021
+Mexico,"54,217,880",2021
+Japan,"45,410,150",2021
+Spain,"43,440,480",2021
+South Korea,"34,020,090",2021
+Indonesia,"33,549,830",2021
+Germany,"33,073,180",2021
+France,"32,000,530",2021
+Saudi Arabia,"29,403,730",2021
+United Arab Emirates,"28,422,620",2021
+United Kingdom,"26,631,930",2021
+Colombia,"26,167,360",2021
+Canada,"24,951,000",2021
+Australia,"24,572,960",2021
+Hungary,"20,127,200",2021
+Sweden,"20,067,140",2021
+Netherlands,"19,349,170",2021
+Austria,"18,901,050",2021
+Qatar,"14,832,940",2021
+Vietnam,"14,754,850",2021
+Iran,"13,695,900",2021
+Thailand,"12,734,580",2021
+Norway,"12,277,220",2004
+Switzerland,"10,988,880",2021
+Chile,"10,302,880",2021
+South Africa,"9,321,580",2021
+Peru,"9,053,970",2021
+Kazakhstan,"8,765,000",2021
+New Zealand,"8,729,630",2021
+Greece,"8,726,340",2021
+Panama,"8,208,380",2021
+Portugal,"8,056,490",2021
+Ethiopia,"7,065,950",2021
+Philippines,"6,886,920",2021
+Argentina,"6,708,100",2021
+Denmark,"6,428,700",2004
+Egypt,"5,563,390",2021
+Belgium,"5,404,280",2021
+Malaysia,"4,965,360",2021
+Pakistan,"4,930,660",2021
+Morocco,"4,740,710",2021
+Nigeria,"4,486,310",2021
+Bolivia,"4,311,880",2021
+Bangladesh,"3,750,750",2021
+Poland,"3,676,180",2021
+Ukraine,"3,282,710",2021
+Finland,"2,805,550",2021
+Romania,"2,719,210",2021
+Nepal,"2,550,510",2021
+Kenya,"2,459,110",2021
+Italy,"2,449,340",2021
+Israel,"2,437,210",2021
+Singapore,"2,311,710",2021
+Kuwait,"2,182,890",2021
+Oman,"2,075,390",2021
+Uzbekistan,"2,010,910",2021
+Algeria,"1,949,940",2021
+Bahrain,"1,840,270",2021
+Jordan,"1,695,300",2021
+Tunisia,"1,675,780",2021
+Iraq,"1,620,010",2021
+Lebanon,"1,603,130",2021
+Latvia,"1,598,680",2021
+Ecuador,"1,534,850",2021
+Iceland,"1,499,030",2021
+Czech Republic,"1,418,030",2021
+El Salvador,"1,412,030",2021
+Sudan,"1,386,970",2021
+Serbia,"1,276,460",2021
+Tanzania,"1,146,970",2021
+Myanmar,"1,132,660",2021
+Azerbaijan,"1,102,450",2021
+Luxembourg,"1,081,480",2021
+Bahamas,"1,065,150",2021
+Belarus,"1,040,730",2021
+Papua New Guinea,"1,039,010",2021
+Libya,"968,480",2021
+Sri Lanka,"871,680",2021
+Hong Kong,"777,200",2021
+Croatia,"767,760",2021
+Rwanda,"715,760",2021
+Macao,"698,050",2021
+Syria,"672,220",2021
+Togo,"672,180",2021
+Belize,"670,360",2021
+Costa Rica,"669,300",2021
+Trinidad and Tobago,"652,150",2021
+Turkmenistan,"648,370",2021
+Malta,"597,720",2021
+Ivory Coast,"569,310",2021
+Uruguay,"563,630",2009
+Ghana,"559,390",2021
+Moldova,"528,580",2021
+Mozambique,"411,740",2021
+Democratic Republic of the Congo,"392,100",2021
+Senegal,"359,710",2021
+Angola,"311,490",2021
+Afghanistan,"293,210",2021
+Maldives,"277,880",2021
+Aruba,"274,280",2018
+Honduras,"271,310",2021
+Venezuela,"265,280",2021
+Mauritania,"207,220",2021
+Albania,"193,260",2021
+Jamaica,"180,950",2018
+Armenia,"179,200",2021
+Cameroon,"177,990",2021
+Botswana,"172,020",2021
+Kyrgyzstan,"171,350",2021
+Republic of the Congo,"157,780",2021
+Laos,"157,290",2021
+Mauritius,"153,240",2021
+Seychelles,"137,560",2021
+Zambia,"136,610",2021
+Fiji,"133,710",2021
+Vanuatu,"128,160",2021
+Tajikistan,"125,160",2021
+Burkina Faso,"112,940",2021
+Paraguay,"111,960",2021
+Gambia,"109,540",2019
+Madagascar,"109,460",2021
+Cyprus,"103,020",2021
+Solomon Islands,"100,590",2021
+North Macedonia,"86,870",2009
+Georgia,"84,590",2021
+Gabon,"77,320",2016
+Cape Verde,"76,350",2021
+Zimbabwe,"75,640",2021
+Dominican Republic,"69,450",2021
+Mongolia,"61,610",2021
+Nicaragua,"61,030",2000
+Guinea,"58,500",1999
+Yemen,"52,030",2021
+Cambodia,"50,220",2021
+Sierra Leone,"50,190",2012
+Kiribati,"46,390",2021
+Central African Republic,"46,360",2001
+Eritrea,"45,100",2021
+Bulgaria,"41,130",2021
+Antigua and Barbuda,"40,630",2021
+Somalia,"34,070",2021
+Mali,"33,440",2013
+Equatorial Guinea,"31,270",2021
+Marshall Islands,"30,110",2021
+Chad,"28,300",2014
+São Tomé and Príncipe,"28,020",2021
+Brunei,"27,880",2021
+Haiti,"23,120",2021
+Bhutan,"22,380",2021
+Cuba,"22,360",2021
+Slovenia,"21,040",2021
+Suriname,"20,180",2021
+Uganda,"16,490",2021
+Niger,"15,020",2021
+Eswatini,"13,340",2021
+Burundi,"12,000",2021
+Lithuania,"11,290",2021
+Slovakia,"8,900",2021
+Guyana,"7,510",2021
+Samoa,"7,210",2021
+Nauru,"3,340",2021
+Namibia,"2,250",2021
+Guatemala,"1,770",2021
+Bosnia and Herzegovina,"1,590",2020
+Montenegro,"1,590",2021
+Lesotho,"1,300",1999
+Malawi,"1,290",2021
+Benin,900,2016
+Estonia,860,2019
+North Korea,520,2021
+Monaco,320,2017
