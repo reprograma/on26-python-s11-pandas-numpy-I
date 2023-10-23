@@ -2,7 +2,7 @@
 
 ## Nome do Exercicio
 
-Utilizar a basede de dados **Titanic** e manipular os dados de acordo com as instruções abaixo:
+Utilizar a base de de dados **Titanic** e manipular os dados de acordo com as instruções abaixo:
     
       - diminuir numero de amostras para 50 via slicing
       - retirar nulos da coluna 'Cabin'
