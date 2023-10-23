@@ -20,15 +20,15 @@ Formato do notebook
         ●	Carregue o dataset em um DataFrame Pandas e mostre as primeiras 3 linhas.
         ●	Aplique técnicas de processamento de dados (tente ir além dos exemplos utilizados em sala de aula), crie uma função de pré-processamento e disponibilize o DataFrame final limpo em um arquivo .csv
         Requerimentos para função:
-            ○	mostrar head do DF
-            ○	deleção de colunas
-            ○	sort de valores
-            ○	remoção de nulos
-            ○	lista de colunas
-            ○	uma cópia do dataframe inicial
-        ●	reset de index
-        ●	apresentar dois insights gerados a partir de dataset
-        ●	BÔNUS: traduzir colunas do dataset Titanic do inglês para o português
+            ○	mostrar head do DF ✅
+            ○	deleção de colunas ✅
+            ○	sort de valores✅
+            ○	remoção de nulos✅
+            ○	lista de colunas✅
+            ○	uma cópia do dataframe inicial✅
+        ●	reset de index✅
+        ●	apresentar dois insights gerados a partir de dataset✅
+        ●	BÔNUS: traduzir colunas do dataset Titanic do inglês para o português✅
 
 ---
 
